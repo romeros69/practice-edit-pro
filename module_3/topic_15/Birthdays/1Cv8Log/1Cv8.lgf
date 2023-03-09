@@ -1,0 +1,23 @@
+﻿1CV8LOG(ver 2.0)
+419d00d6-7922-47cf-b483-8bd9be9f9db1
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"MacBook-Pro-romeros.local",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,09bd34fd-6c71-483c-87cd-3951fa076ade,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.New",8},
+{5,09bd34fd-6c71-483c-87cd-3951fa076ade,"Справочник.Люди",1},
+{4,"_$Transaction$_.Commit",9},
+{4,"_$Session$_.Finish",10},
+{4,"_$Data$_.Update",11},
+{3,"BackgroundJob",3},
+{5,05a050d4-bcbe-4bd7-9228-012662f93929,"",2}
